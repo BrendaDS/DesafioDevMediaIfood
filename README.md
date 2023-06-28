@@ -1,2 +1,3 @@
 # DesafioDevMediaIfood
-Primeiro Desafio em HTM proposto pela DEVMEDIA em parceria com IFOOD, onde tive que criar um site para o Parque Estadual Ilha Bela.
+Desafios de projeto da plataforma Dev Media, a melhor plataforma de programadores, em parceiria com Ifood.
+Os desafios são em HTML, CSS, Javascript e React. 
